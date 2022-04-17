@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @burzza
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter development
 - 📫 How to reach me email @bineshburzaa@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burzza
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m flutter developer
 - 💞️ I’m looking to collaborate on flutter development
 - 📫 How to reach me email @bineshburzaa@gmail.com
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @burzza<br> 👀 I’m interested in app development<br> 🌱 I’m flutter developer<br> 💞️ I’m looking to collaborate on flutter development<br> 📫 How to reach me email @bineshburjamagar@gmail.com
+ 👋 Hi, I’m @bineshburjamagar<br> 👀 I’m interested in app development<br> 🌱 I’m flutter developer<br> 💞️ I’m looking to collaborate on flutter development<br> 📫 How to reach me email @bineshburjamagar@gmail.com
 
 
 ## 🌐 Socials:

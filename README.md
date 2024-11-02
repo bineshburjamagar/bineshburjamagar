@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bines Burja Magar</h1>
+<h1 align="center">Hi 👋, I'm Binesh Burja Magar</h1>
 <h3 align="center">I’m Binesh Burja Magar, a dedicated Software Engineer with a passion for Flutter development and an emerging interest in data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bineshburjamagar&label=Profile%20views&color=0e75b6&style=flat" alt="bineshburjamagar" /> </p>
